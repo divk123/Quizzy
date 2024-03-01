@@ -1,4 +1,4 @@
-# Quiz App
+# Quizzy
 
 ## Tech Stack:
 React(Vite)
